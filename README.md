@@ -1,70 +1,49 @@
-<div align="center">
-<!-- Optional: Add a profile image. Replace the URL with your own image or remove the line if you prefer not to use one. -->
-<img src="https://placehold.co/150x150/d3d3d3/545454?text=Your+Photo" alt="Your Name's Profile Picture" style="border-radius: 50%;">
+# 🛠️ Sofonyas | IT Professional & Full-Stack Developer
 
-Hello, I'm [Your Name]! 👋
-<p>
-I'm a [Your Job Title/Role, e.g., "Full-Stack Developer," "Data Scientist," "Cloud Engineer"] with a passion for [Your key interest, e.g., "building scalable web applications," "creating elegant user experiences," "solving complex data problems"].
+### Hardware & Network Specialist | Cybersecurity Enthusiast | Creative Developer
+
+I am a highly technical IT professional focused on the intersection of networking, hardware optimization, and modern web development. Whether I'm building interactive 3D portfolios or monitoring network traffic, I thrive on understanding how systems work from the BIOS to the Browser.
+
+---
+
+## 🚀 Technical Arsenal
+
+### 💻 Operating Systems
+- **Primary:** Arch Linux (Customized workflows)
+- **Security:** Parrot OS & Kali Linux (Pentesting & Defense)
+- **Legacy:** Expert at optimizing modern performance on legacy hardware (e.g., Dell OptiPlex 960).
+
+### 🌐 Development & Tools
+- **Frontend:** Next.js, React, Tailwind CSS, Three.js, Framer Motion.
+- **Backend:** Python (Flask), Node.js.
+- **Networking/Security:** Nmap, Bash Scripting, Linux File System Security, Blue/Red Team Fundamentals.
+
+---
+
+## 📂 Featured Projects
+
+### 🛡️ [NetGuardian](https://github.com/yourusername/netguardian)
+A Flask-based network monitoring and device management tool. It utilizes **Nmap** to scan local networks, track connected devices, and manage security protocols in real-time.
+
+### 🌌 [Sci-Fi Retro OS Portfolio](https://github.com/yourusername/portfolio)
+A high-interaction portfolio site built with **Next.js** and **Three.js**. Styled as a futuristic, retro operating system to showcase my UI/UX capabilities.
+
+---
+
+## 📈 Currently Learning & Practicing
+- 🛡️ **Cybersecurity Operations:** Participating in specialized training for defensive security and Linux hardening.
+- ⚡ **Hardware Optimization:** Pushing the limits of integrated graphics and legacy chipsets.
+- 📡 **Networking:** Pursuing advanced certifications in hardware and network servicing.
+
+---
+
+## 📬 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 📧 [Email Me](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-glow" alt="Top Langs" />
 </p>
-
-<!-- Add a dynamic visitor counter if you'd like. Replace your-username with your GitHub username. -->
-
-<!-- <img src="https://profile-counter.glitch.me/{your-username}/count.svg" alt="Profile views"> -->
-
-</div>
-
-🔭 What I'm Currently Working On
-[Project Name 1]: A brief description of the project and what you're doing with it.
-
-[Project Name 2]: Another project or area of focus.
-
-🌱 I'm currently learning [New technology, framework, or concept].
-
-🛠️ Skills and Technologies
-I enjoy working with a variety of technologies. Here are some of the key ones in my stack:
-
-Category
-
-Technologies
-
-Languages
-
-JavaScript, Python, TypeScript, Java, Go
-
-Front-End
-
-React, Vue.js, Angular, HTML5, CSS3
-
-Back-End
-
-Node.js, Express, Django, Flask
-
-Databases
-
-PostgreSQL, MongoDB, MySQL
-
-Cloud & DevOps
-
-AWS, Docker, Kubernetes, CI/CD
-
-Tools
-
-Git, VS Code, Jira, Figma
-
-🌱 Let's Connect!
-I'm always open to new opportunities and collaborations. Feel free to connect with me on these platforms:
-
-LinkedIn: Your LinkedIn Profile URL
-
-Twitter: @your-twitter-handle
-
-Portfolio/Website: Your Portfolio Website URL
-
-Email: your-email@example.com
-
-📈 My GitHub Stats
-<div align="center">
-<!-- Optional: Add dynamic GitHub stats. Replace your-username with your GitHub username. -->
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Your Top Languages" />
-</div>
