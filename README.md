@@ -28,8 +28,7 @@ When I’m not at the keyboard, I’m usually **troubleshooting hardware**, salv
 
 <b>Current Projects:</b>
 * **NetGuardian**: A security-focused monitoring suite.
-* **Retro OS Portfolio**: A playable, terminal-themed portfolio built with Next.js and Three.js.
-* **IP Analysis Tool**: A CLI and web tool for network subnetting and validation.
+* **Retro OS Portfolio**: A playable, desktop-themed portfolio built with Next.js and Three.js.
 
 </blockquote>
     
