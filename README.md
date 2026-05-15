@@ -64,14 +64,18 @@ When I'm not at the terminal, I'm usually **salvaging hardware components**, hun
 <details>
   <summary><b>📊 Activity Monitor</b></summary>
     <p>
+<br>
 
-<a href="https://github.com/sofonyas66">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=sofonyas66&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00CCB4&icon_color=00CCB4" alt="GitHub Stats">
-   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofonyas66&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00CCB4" alt="Top Languages">
-</a>
-<br /><br />
+![Sofonyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofonyas66&show_icons=true&theme=github_dark&hide_border=true&title_color=00CCB4&icon_color=00CCB4&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofonyas66&layout=compact&theme=github_dark&hide_border=true&title_color=00CCB4)
 
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=sofonyas66&theme=github-dark-blue&hide_border=true&ring=00CCB4&fire=00CCB4&currStreakLabel=00CCB4)
+
+<br>
+
+----
+
+  </p>
 </details>
 
 <p align="center">
