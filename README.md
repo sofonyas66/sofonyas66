@@ -3,8 +3,7 @@
 <p align="center">
    <kbd>
   <a href="https://github.com/sofonyas66" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://sofonyas-os.vercel.app" title="Retro OS Portfolio"><img src="https://img.shields.io/badge/-Portfolio-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://tryhackme.com" title="TryHackMe"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://sofonyas-os-portfolio.vercel.app" title="Retro OS Portfolio"><img src="https://img.shields.io/badge/-Portfolio-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
 
