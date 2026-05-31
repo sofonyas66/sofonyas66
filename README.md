@@ -1,4 +1,4 @@
-<h1 align="center" title="Booting into Sofonyas' Profile...">📡 Welcome to my' Profile </h1>
+<h1 align="center" title="Booting into Sofonyas' Profile...">Welcome to my' Profile </h1>
 
 <p align="center">
    <kbd>
